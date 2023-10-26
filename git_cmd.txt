@@ -1,0 +1,3 @@
+git init // initialize empty git repodsitory
+git -v // check git version
+git checkout -b <branch name> // create new branch
