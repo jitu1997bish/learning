@@ -1,3 +1,8 @@
 git init // initialize empty git repodsitory
 git -v // check git version
+git branch // check current branch
+git status // check file status
 git checkout -b <branch name> // create new branch
+git add . // stage files
+git commit -m <message> // add commit message
+git push origin <branch_name> //push your code
